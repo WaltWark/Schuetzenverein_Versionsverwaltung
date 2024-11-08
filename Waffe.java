@@ -3,7 +3,7 @@ package projektverwaltung_schuetzenverein;
 /**
  * @author Walter
  */
-public class Waffe {
+public class Waffe extends Produkt{
     private int waffeID;
     private String produzent;
     private int laenge;
